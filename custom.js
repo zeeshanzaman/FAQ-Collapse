@@ -5,3 +5,10 @@ toggles.forEach(toggle => {
         toggle.parentNode.classList.toggle('active')
     })
 })
+
+// SUMMERY
+// Bring in toggle buttons (querySelectorAll)
+// loop through nodelist (foeEach)
+// Add click event (addEventListener)
+// Toggle the active class on the parent node (.
+// parrentNode & classList.toggle())
